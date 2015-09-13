@@ -1,6 +1,6 @@
 ### Indeed API
 
-Build a query for the Indeed API, looking for all python jobs in Berlin.
+Build a query for the Indeed API, send the request and fetch the results.
 
 [Indeed API docs](https://ads.indeed.com/jobroll/xmlfeed)
 
